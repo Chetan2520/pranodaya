@@ -57,14 +57,7 @@ const SIDEBAR_HTML = `
 			</a>
 		</div>
 		<div class="off-canvas-text m-b-30">
-			<p>
-				Ratione doloribus optio minus cum ab. Nostrum rerum minus sapiente
-				eveniet fuga quos tenetur Bicycle rights taxidermy knausgaard, 3
-				wolf moon schlitz kombucha freegan ugh ethical kogi Déjà en
-				recherche de nouvelle inspiration pour la prochaine collection, qui
-				sera toujours inspirée de ses origines suisses de son savoir-faire
-				an nouveau matériel arrive!
-			</p>
+				Pranodaya Foundation is dedicated to empowering the underprivileged through education, healthcare, and sustainable development. Join us in creating a better world by supporting our initiatives.
 		</div>
 		<div class="off-canvas-thumb m-b-40">
 			<img src="assets/img/thumbs/thumb-3.webp" alt="thumb"/>

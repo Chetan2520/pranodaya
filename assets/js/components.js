@@ -14,11 +14,11 @@ const MENUBAR_HTML = `
     <div class="off-canvas-menubar">
       <div class="off-canvas-menubar-body">
         <div class="off-canvas-head">
-          <div class="off-canvas-logo">
-            <a href="index.html">
-              <img src="assets/img/logo/logo-2.png" alt="logo" />
-            </a>
-          </div>
+        //   <div class="off-canvas-logo">
+        //     <a href="index.html">
+        //       <img src="assets/img/logo/logo-2.png" alt="logo" />
+        //     </a>
+        //   </div>
           <div class="off-canvas-menubar-close" data-close="menubar">
             <i class="fa-regular fa-xmark"></i>
           </div>
@@ -51,11 +51,11 @@ const SIDEBAR_HTML = `
 		<div class="off-canvas-sidebar-close" data-close="sidebar">
 			<i class="fa-regular fa-xmark"></i>
 		</div>
-		<div class="off-canvas-logo m-b-20">
-			<a href="index.html">
-				<img src="assets/img/logo/logo-2.png" alt="logo"/>
-			</a>
-		</div>
+		// <div class="off-canvas-logo m-b-20">
+		// 	<a href="index.html">
+		// 		<img src="assets/img/logo/logo-2.png" alt="logo"/>
+		// 	</a>
+		// </div>
 		<div class="off-canvas-text m-b-30">
 				Pranodaya Foundation is dedicated to empowering the underprivileged through education, healthcare, and sustainable development. Join us in creating a better world by supporting our initiatives.
 		</div>
